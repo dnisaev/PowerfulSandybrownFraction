@@ -1,0 +1,1 @@
+print('google'.replace('go', 'mo'))
