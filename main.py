@@ -1,1 +1,2 @@
-d = {1: 'one', 3: 'three', 2: 'two', }
+greeting = 'Hi there! Click "Show code" or visit my GitHub: github.com/dnisaev';
+print(greeting);
